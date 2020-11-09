@@ -1,0 +1,25 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "english": "English version"
+  },
+  "menu": {
+    "order": "ORDER"
+  },
+  "cart": {
+    "tax": "Tax",
+    "subTotal": "Subtotal",
+    "total": "TOTAL",
+    "checkout": "CHECK OUT",
+    "title": "MY ORDER",
+    "delivery": "Delivery",
+    "pickup": "Pickup",
+    "changeStore": "CHANGE STORE",
+    "addMore": "Add more items"
+  },
+  "about": {
+    "title": "About",
+    "introduction": "Pizza Garden"
+  }
+}
